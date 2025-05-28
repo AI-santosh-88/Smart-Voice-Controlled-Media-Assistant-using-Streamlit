@@ -59,6 +59,9 @@ Package        -           Purpose
   
 * base64	   -             Encoding uploaded images for background display
 
+📌 Project Summary
+This project demonstrates a simple but effective browser-based voice assistant. By leveraging Streamlit for UI, and speech technologies for voice interaction, it combines accessibility and interactivity in a visually pleasing, customizable format. Its practical use cases range from personal entertainment control to support for visually impaired users or those in hands-free environments.
+
 
 
 

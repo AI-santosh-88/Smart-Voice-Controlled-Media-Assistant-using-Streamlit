@@ -46,12 +46,18 @@ This project builds a browser-based voice assistant using Streamlit as the user 
 * Keep the UI interactive, responsive, and user-friendly within the Streamlit framework.
 
 📦  Packages Used
+
 Package                   Purpose
 ---------                 --------
+
 * streamlit               Web UI and interaction handling
+  
 * speech_recognition	    Capturing and transcribing voice input
+  
 * pyttsx3	                Text-to-speech engine for responses
+  
 * pywhatkit	              Plays YouTube videos programmatically
+  
 * base64	                Encoding uploaded images for background display
 
 

@@ -7,7 +7,7 @@
 📝 Project Description :
 * This project builds a browser-based voice assistant using Streamlit as the user interface framework. It listens for voice commands through a microphone, interprets them using Google’s Speech Recognition API, provides audio feedback with pyttsx3, and performs tasks such as playing songs on YouTube with pywhatkit. It also allows dynamic background customization by uploading an image.
 
-✅ Project Responsibilities
+✅ Project Responsibilities :
 
 1.Capture Voice Input from User
 * Listen to spoken commands using the system’s microphone.
@@ -45,7 +45,7 @@
 * Run the voice assistant via a button press.
 * Keep the UI interactive, responsive, and user-friendly within the Streamlit framework.
 
-📦  Packages Used
+📦  Packages Used :
 
 Package        -           Purpose
 ---------                 --------

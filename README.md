@@ -1,10 +1,10 @@
-🚀 Project Title
+🚀 Project Title :
 "Smart Voice-Controlled Media Assistant using Streamlit"
 
-🧠 Problem Use Case
+🧠 Problem Use Case : 
 Many users desire hands-free control of media, searches, and basic tasks. Especially for accessibility needs or multitasking environments (e.g., cooking, driving, or working), a voice-activated system offers intuitive interaction. This project aims to develop a web-based voice assistant that responds to spoken commands to perform actions like playing music via YouTube and delivering spoken feedback—all in a lightweight, browser-based interface.
 
-📝 Project Description
+📝 Project Description :
 This project builds a browser-based voice assistant using Streamlit as the user interface framework. It listens for voice commands through a microphone, interprets them using Google’s Speech Recognition API, provides audio feedback with pyttsx3, and performs tasks such as playing songs on YouTube with pywhatkit. It also allows dynamic background customization by uploading an image.
 
 ✅ Project Responsibilities
